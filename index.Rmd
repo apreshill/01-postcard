@@ -1,26 +1,20 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Sharleen the Emu"
+image: "sharleen.jpeg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/apreshill"
   - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+    url: "https://www.apreshill.com"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/apreshill"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I am a data scientist, behavioral scientist, and award-winning educator. I work on creating online experiences to bring machine learning and artificial intelligence (AI) problems and solutions to life. My goal is to make AI more approachable, understandable, and empowering.
 
 ## Education
 
@@ -34,12 +28,8 @@ B.F.A. in Music Performance | August 2005 - May 2009
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**IBM AI Strategy & Innovation** | Senior Data Scientist | October 2021 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**RStudio** | Product Manager, Data Science Communication | August 2020 - September 2021
 
-**National Public Radio** | Producer | May 2015 - July 2018
 
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
